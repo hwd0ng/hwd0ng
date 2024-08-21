@@ -1,5 +1,6 @@
-## Who am I
+Who am I
 
+Hi, I'm Hwand Dong Hyeon 😄
 <!--
 **hwd0ng/hwd0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
