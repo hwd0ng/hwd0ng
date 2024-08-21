@@ -1,6 +1,6 @@
 ## Who am I
 
-<h1 align="left">Hi 👋, I'm Hwang Dong Hyeon</h1>
+<h1 align="left">Hwang Dong Hyeon</h1>
 <h3 align="left">AI Developer from South Korea</h3>
 
 <h3 align="left">Languages and Tools:</h3>
