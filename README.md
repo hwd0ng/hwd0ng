@@ -5,10 +5,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DongHyeon's+GitHub!👋"
 alt="Typing SVG"/></a>
 
-# Introduce
-안녕하세요 데이터 사이언티스트를 꿈꾸는 황동현입니다.
+# About me
+데이터 사이언티스트를 꿈꾸는 청년, 황동현입니다 !
 
-
+> 2024.02 가천대학교 응용통계학과 졸업
+  * 2022 경기지역경제포털 빅데이터 활용 시각화 아이디어 공모전
+> 2024.03~09 (KDT)K-Digital Training 3기 수료
+  * 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 검색 서비스
+  * 2차 프로젝트 - (NLP) EPL챗봇 서비스
+  * 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플
+</br>
 <h1 align="left">Data Scientist</h1>
 
 <h3 align="left">Languages and Tools:</h3>
