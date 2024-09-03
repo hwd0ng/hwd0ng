@@ -5,6 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DongHyeon's+GitHub!👋"
 alt="Typing SVG"/></a>
 
+# Introduce
+안녕하세요 데이터 사이언티스트를 꿈꾸는 황동현입니다.
+
+
 <h1 align="left">Data Scientist</h1>
 
 <h3 align="left">Languages and Tools:</h3>
