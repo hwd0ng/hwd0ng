@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:E0F8FF,100:A7D8FF&text=Dong-Hyeon&section=header&reversal=false&textBg=false&animation=twinkling&direction=vertical" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:A7D8FF,100:E0F8FF&text=Dong-Hyeon&section=header&reversal=false&textBg=false&animation=twinkling&direction=vertical" width="100%"/>
 
 <br><br>
 <h1 align="left">Data Scientist</h1>
