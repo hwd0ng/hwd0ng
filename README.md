@@ -1,7 +1,4 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=300&section=header&text='Hwang'Dong-Hyeon&fontSize=50&fontColor=FFFFFF" width="100%"/>
-
-<!-- Header banner -->
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=300&section=header&text='Hwang'Dong-Hyeon&fontSize=50&fontColor=FFFFFF](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Dong-Hyeon&section=header&reversal=false&textBg=false)" width="100%"/>
 
 <br><br>
