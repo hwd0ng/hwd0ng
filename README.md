@@ -11,7 +11,7 @@ alt="Typing SVG"/></a>
 > 2024.02 가천대학교 응용통계학과 졸업
   - 2022 경기지역경제포털 빅데이터 활용 시각화 아이디어 공모전
 > 2024.03~09 (KDT)K-Digital Training 3기 수료
-  - 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 검색 서비스
+  - 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 조회 서비스
   - 2차 프로젝트 - (NLP) EPL챗봇 서비스
   - 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플
 </br>
@@ -55,6 +55,15 @@ alt="Typing SVG"/></a>
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+# Projects
+> KDT 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 조회 서비스
+
+> KDT 2차 프로젝트 - (NLP) EPL챗봇 서비스
+
+> KDT 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwd0ng&show_icons=true&locale=en&layout=compact" alt="hwd0ng" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwd0ng&show_icons=true&locale=en" alt="hwd0ng" /></p>
+
+
