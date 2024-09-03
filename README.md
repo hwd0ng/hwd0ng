@@ -1,6 +1,4 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:A7D8FF,100:E0F8FF&text=Dong-Hyeon&section=header&reversal=false&textBg=false&animation=twinkling&direction=vertical" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=100" width="100%"/>
 
 <!-- Title Typing Effect -->
