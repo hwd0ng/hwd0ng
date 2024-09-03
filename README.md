@@ -1,8 +1,8 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=0:A7D8FF,100:E0F8FF&text=Dong-Hyeon&section=header&reversal=false&textBg=false&animation=twinkling&direction=vertical" width="100%"/>
 
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80" width="100%"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?
 font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 &center=false&vCenter=false&multiline=true&repeat=true&width=1000
