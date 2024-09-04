@@ -67,7 +67,7 @@ alt="Typing SVG"/></a>
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/f1c10358-0c9a-48f4-8e98-3e29f56efbe3">
 <br><hr>
 
-### [KDT 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플]()
+### [KDT 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플](https://github.com/hwd0ng/KDT_Project3-PIP.git)
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/2d8aa565-b107-48c4-a3be-0ff53dd7064b">
 <br><hr>
 
