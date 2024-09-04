@@ -59,15 +59,15 @@ alt="Typing SVG"/></a>
 # Projects
 
 > [KDT 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 조회 서비스](https://github.com/hwd0ng/KDT_Project1-SafeMall.git)
-<img width="1021" alt="image" src="https://github.com/user-attachments/assets/993e20db-e46b-42ad-b7ce-f0179beac302">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/993e20db-e46b-42ad-b7ce-f0179beac302">
 <br><br><br>
 
 > [KDT 2차 프로젝트 - (NLP) EPL챗봇 서비스](https://github.com/hwd0ng/KDT_Project2-EPL_Chatbot.git)
-<img width="1019" alt="image" src="https://github.com/user-attachments/assets/f1c10358-0c9a-48f4-8e98-3e29f56efbe3">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f1c10358-0c9a-48f4-8e98-3e29f56efbe3">
 <br><br><br>
 
 > [KDT 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플]()
-<img width="1176" alt="image" src="https://github.com/user-attachments/assets/2d8aa565-b107-48c4-a3be-0ff53dd7064b">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/2d8aa565-b107-48c4-a3be-0ff53dd7064b">
 <br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwd0ng&show_icons=true&locale=en&layout=compact" alt="hwd0ng" /></p>
