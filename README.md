@@ -62,7 +62,6 @@ alt="Typing SVG"/></a>
   
 ### [KDT 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 조회 서비스](https://github.com/hwd0ng/KDT_Project1-SafeMall.git)
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/8d6f9b59-6a63-45f4-9897-d47ce2d0c3cc">
-
 <br><hr>
 
 ### [KDT 2차 프로젝트 - (NLP) EPL챗봇 서비스](https://github.com/hwd0ng/KDT_Project2-EPL_Chatbot.git)
