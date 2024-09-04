@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DongHyeon's+GitHub!👋"
 alt="Typing SVG"/></a>
 
-# About me
+# 🫡 About me
 ### "Data Scientist"를 꿈꾸는 청년, 황동현입니다 !
 
 > 2024.02 가천대학교 응용통계학과 졸업
@@ -16,7 +16,7 @@ alt="Typing SVG"/></a>
   - 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플
 <br>
 
-# Skills
+# 🛠️ Skills
 > ML/DL 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,9 +56,9 @@ alt="Typing SVG"/></a>
 </p>
 <br>
 
-# Projects
+# 📊 Projects
 <details>
-<summary>프로젝트 보기</summary>
+<summary><strong style="font-size: 1.5em;">프로젝트 보기</strong></summary>
   
 ### [KDT 1차 프로젝트 - (Web) 사기 의심 인터넷 쇼핑몰 사이트 조회 서비스](https://github.com/hwd0ng/KDT_Project1-SafeMall.git)
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/8d6f9b59-6a63-45f4-9897-d47ce2d0c3cc">
@@ -73,7 +73,8 @@ alt="Typing SVG"/></a>
 <br><hr>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwd0ng&show_icons=true&locale=en&layout=compact" alt="hwd0ng" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hwd0ng&show_icons=true&locale=en" alt="hwd0ng" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwd0ng&show_icons=true&locale=en&layout=compact" alt="hwd0ng"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hwd0ng&show_icons=true&locale=en" alt="hwd0ng"/></p>
 
 
