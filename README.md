@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+DongHyeon's+GitHub!👋"
 alt="Typing SVG"/></a>
 
-# 🫡 About me
+# 👋 About me
 ### "Data Scientist"를 꿈꾸는 청년, 황동현입니다 !
 
 > 2024.02 가천대학교 응용통계학과 졸업
