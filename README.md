@@ -71,8 +71,3 @@
 <br><hr>
 </details>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hwd0ng&show_icons=true&locale=en&layout=compact" alt="hwd0ng"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hwd0ng&show_icons=true&locale=en" alt="hwd0ng"/></p>
-
-
